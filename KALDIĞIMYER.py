@@ -1,0 +1,1 @@
+8 ##--- Kredi KArtı Kümeleme
